@@ -151,13 +151,13 @@ termux-notification --title "Upload Complete" --content "All new photos uploaded
 
 Screenshots:-
 1)
-https://github.com/miheerdeo/Custom-Cloud-Storage/blob/3600c0be2c265a414ddd6c32d51c93e55a869d72/1000001185.jpg
+![image alt](https://github.com/miheerdeo/Custom-Cloud-Storage/blob/3600c0be2c265a414ddd6c32d51c93e55a869d72/1000001185.jpg)
 2)
-https://github.com/miheerdeo/Custom-Cloud-Storage/blob/a60dc659f97bc047b3c6dccecbad07966c3cf5a7/1000001186.jpg
+![image alt](https://github.com/miheerdeo/Custom-Cloud-Storage/blob/a60dc659f97bc047b3c6dccecbad07966c3cf5a7/1000001186.jpg)
 3)
-https://github.com/miheerdeo/Custom-Cloud-Storage/blob/3e1366713bbb91799a4f6e838b5f26cf52c0fc17/1000001189.jpg
+![image alt](https://github.com/miheerdeo/Custom-Cloud-Storage/blob/3e1366713bbb91799a4f6e838b5f26cf52c0fc17/1000001189.jpg)
 4)
-https://github.com/miheerdeo/Custom-Cloud-Storage/blob/377986578e3751725208debe1e82f43ee9edd37b/Screenshot%202025-07-09%20154331.png
+![image alt](https://github.com/miheerdeo/Custom-Cloud-Storage/blob/377986578e3751725208debe1e82f43ee9edd37b/Screenshot%202025-07-09%20154331.png)
 
 
 
