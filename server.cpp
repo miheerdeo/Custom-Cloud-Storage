@@ -67,6 +67,6 @@ int main() {
         res.set_content("Photo uploaded successfully!", "text/plain");
     });
     //0.0.0.0 allows to bind on all the network interfaces.
-    cout << "🚀 Server running at port 8080";
+    cout << "Server running at port 8080";
     server.listen("0.0.0.0", 8080);
 }
